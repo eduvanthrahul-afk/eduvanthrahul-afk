@@ -100,24 +100,6 @@ Backend system for a secure digital journaling platform.
 
 ---
 
-## 🧠 DSA Journey
-
-<div align="center">
-
-### `340+` Problems Solved
-
-<img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
-
-<br/><br/>
-
-`Arrays` • `Hashing` • `Binary Search` • `Two Pointers`
-`Sliding Window` • `Stack` • `Queue` • `Trees`
-`Graphs` • `BFS` • `DFS` • `Dijkstra`
-`DSU` • `Topological Sort` • `Bit Manipulation` • `Sorting`
-
-</div>
-
----
 
 ## 🏆 Certification
 
@@ -129,49 +111,6 @@ Backend system for a secure digital journaling platform.
 
 </div>
 
----
-
-## 🎯 Current Mission
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   MASTER DSA                                │
-│        ↓                                    │
-│   BUILD STRONG BACKENDS                     │
-│        ↓                                    │
-│   UNDERSTAND SYSTEM DESIGN                  │
-│        ↓                                    │
-│   BUILD PRODUCTS                            │
-│        ↓                                    │
-│   SHIP 🚀                                   │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="./github-metrics.svg" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭
-
-> **Veni Vidi Vici**
-
-<br/>
-
-**Build. Break. Learn. Repeat.**
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563eb,100:0f172a"/>
 
