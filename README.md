@@ -1,117 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=EDUVANTH%20RAHUL&fontSize=48&fontAlignY=35&desc=Java%20%7C%20Spring%20Boot%20%7C%20Backend%20%7C%20DSA&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0f172a,100:2563eb"/>
-
-<a href="https://github.com/eduvanthrahul-afk">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+backend+systems+that+actually+work.;Java+%7C+Spring+Boot+%7C+REST+APIs;Turning+DSA+problems+into+muscle+memory.;Veni+Vidi+Vici." />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=E%20RAHUL&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BACKEND%20DEVELOPER%20%E2%80%A2%20JAVA%20%E2%80%A2%20SPRING%20BOOT&descAlignY=60&descSize=17" width="100%"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/eduvanthrahul-afk)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)](https://spring.io/projects/spring-boot)
+<a href="https://github.com/eduvanthrahul-afk">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/rahul-eduvanth">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/Rahul_E">
+<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=555555&center=true&vCenter=true&width=600&lines=Building+backend+systems.;Java+%2B+Spring+Boot.;APIs+%2B+Security+%2B+Databases." />
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-```text
-🎓  B.E. Computer Science & Engineering
-💻  Backend-focused developer
-☕  Java + Spring Boot enthusiast
-🧠  340+ LeetCode problems solved
-🚀  Building APIs, backend systems & SaaS products
-📚  Currently sharpening DSA + System Design
-```
-
-> **I don't just learn technologies — I build with them.**
-
----
-
-## ⚡ Tech Stack
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,html,css,js,git,github,postman&perline=10" />
+### `JAVA` · `SPRING BOOT` · `REST APIs` · `SQL` · `SECURITY`
 
 </div>
 
-### Core
+---
 
-`Java` `Spring Boot` `REST APIs` `PostgreSQL` `MySQL`
+## ABOUT
 
-### Engineering
+> **Third-year Computer Science undergraduate focused on backend development with Java and Spring Boot.**
 
-`Git` `GitHub` `Postman` `Maven` `OAuth2` `Flyway`
+Currently building practical systems around **APIs, databases, authentication, and security**.
 
-### Currently Learning
-
-`DSA` `System Design` `Backend Architecture`
+**Oracle Certified Professional — Java SE 17 Developer**
 
 ---
 
-## 🚀 Featured Projects
+## STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,js,html,css,git,github,postman,maven,idea,vscode" />
+
+<br/><br/>
+
+`Spring Data JPA` · `Hibernate` · `Spring Security` · `JWT`
+
+`AES-256-GCM` · `PBKDF2` · `RBAC` · `REST APIs`
+
+</div>
+
+---
+
+## PROJECTS
 
 <table>
 <tr>
-<td width="50%">
 
-### 🔐 API Key Manager
+<td width="50%" valign="top">
 
-A SaaS-style API key management platform.
+### 🔐 KeyVault
 
-**Features**
+**Secrets & API Key Manager**
 
-* 🔑 Create & revoke API keys
-* 📊 Usage limits & tracking
-* 📝 API request logs
-* 🔄 Key rotation
-* 🛡️ RBAC
-* 💳 Pricing architecture
+Client-encrypted secrets management platform built with Java and Spring Boot.
 
-**Stack:**
-`Spring Boot` `Java` `REST API` `PostgreSQL`
+`Java` `Spring Boot` `MySQL`
+
+`AES-256-GCM` `RBAC` `JWT`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📓 Digital Journal
+### 📊 Verdant CRM
 
-Backend system for a secure digital journaling platform.
+**Commercial Operations Platform**
 
-**Highlights**
+CRM system for leads, quotes, billing and field-survey workflows.
 
-* 🔐 OAuth2 resource server
-* 👤 User management
-* 🗄️ PostgreSQL database
-* 🧩 Database migrations
-* 🌐 RESTful APIs
+`Java 17` `Spring Boot 3` `PostgreSQL`
 
-**Stack:**
-`Spring Boot` `Java` `PostgreSQL` `Flyway`
+`Spring Security` `Flyway` `REST`
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💰 Expense Manager
+
+**Full-Stack Financial Tracker**
+
+Application for tracking, categorizing and analyzing personal expenses.
+
+`Java` `Spring Boot` `MySQL`
+
+`JPA` `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Problem Solving
+
+**400+ DSA Problems**
+
+Consistent problem-solving practice focused on algorithms and data structures.
+
+<a href="https://leetcode.com/Rahul_E">
+<img src="https://img.shields.io/badge/LeetCode-400%2B-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-
-## 🏆 Certification
+## CERTIFICATIONS
 
 <div align="center">
 
-### ☕ Oracle Certified Professional
+<img src="https://img.shields.io/badge/Oracle-Certified%20Professional%20%E2%80%94%20Java%20SE%2017-orange?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-**Java SE 17 Developer**
+ 
+
+<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </div>
 
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563eb,100:0f172a"/>
+<div align="center">
+
+### BUILDING BACKENDS. SOLVING PROBLEMS. LEARNING EVERY DAY.
+
+<br/>
+
+<a href="mailto:eduvanthrahul@gmail.com">
+<img src="https://img.shields.io/badge/Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%"/>
 
 </div>
