@@ -1,178 +1,109 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=39FF88&background=0D1117&center=false&vCenter=true&multiline=true&width=900&height=140&lines=%24+whoami;%3E+E.+Rahul+%E2%80%94+Backend+Developer;%24+cat+certifications.txt;%3E+Oracle+Certified+Professional%2C+Java+SE+17;" alt="terminal intro" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=39FF88&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Rahul+%F0%9F%91%8B;Backend+Developer;Java+%C2%B7+Spring+Boot+%C2%B7+System+Design" alt="typing intro" />
 
 <br/>
 
-<table width="100%">
-<tr>
+I got into backend engineering the way most people don't recommend: by taking apart a tutorial CRUD app and asking "what happens if this gets attacked, or gets 10,000 users overnight?" That question is basically what I've been building toward ever since — systems with real access control, real encryption, and real thought behind the schema. I'm a third-year CS student in Chennai, Oracle Certified in Java SE 17, and I'd rather ship something production-shaped than another to-do list app.
 
-<!-- ░░░ LEFT SIDEBAR ░░░ -->
-<td width="30%" valign="top">
+📍 Chennai, India &nbsp;·&nbsp; 🎓 CSE @ SRM Easwari Engineering College (Class of 2028) &nbsp;·&nbsp; ☕ Java · Spring Boot · MySQL/PostgreSQL
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=6&width=100%"/>
-
-### `<sidebar/>`
-
-<sub>**LOCATION**</sub>
-📍 Chennai, India
-
-<sub>**ROLE**</sub>
-🛠️ Backend Developer
-
-<sub>**FOCUS**</sub>
-☕ Java · Spring Boot · MySQL
-
-<sub>**STATUS**</sub>
-🎓 CSE Undergrad → `2028`
+<p>
+<a href="mailto:eduvanthrahul@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=39FF88" /></a>
+<a href="https://linkedin.com/in/rahul-eduvanth"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=39FF88" /></a>
+<a href="https://leetcode.com/Rahul_E"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=39FF88" /></a>
+<a href="https://github.com/eduvanthrahul-afk"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=39FF88" /></a>
+</p>
 
 ---
 
-**`connect --with=rahul`**
+### 🛠️ Tech Stack
 
-[![gmail](https://img.shields.io/badge/-eduvanthrahul@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=39FF88)](mailto:eduvanthrahul@gmail.com)
-[![linkedin](https://img.shields.io/badge/-rahul--eduvanth-0D1117?style=flat-square&logo=linkedin&logoColor=39FF88)](https://linkedin.com/in/rahul-eduvanth)
-[![leetcode](https://img.shields.io/badge/-Rahul__E-0D1117?style=flat-square&logo=leetcode&logoColor=39FF88)](https://leetcode.com/Rahul_E)
-[![github](https://img.shields.io/badge/-eduvanthrahul--afk-0D1117?style=flat-square&logo=github&logoColor=39FF88)](https://github.com/eduvanthrahul-afk)
+**Languages**
+- <img src="https://skillicons.dev/icons?i=java" height="18"/>&nbsp; Java
+- <img src="https://skillicons.dev/icons?i=js" height="18"/>&nbsp; JavaScript
+- <img src="https://skillicons.dev/icons?i=html" height="18"/>&nbsp; HTML
+- <img src="https://skillicons.dev/icons?i=css" height="18"/>&nbsp; CSS
 
----
+**Backend & Data**
+- <img src="https://img.shields.io/badge/-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="18"/>&nbsp; Spring Boot
+- <img src="https://img.shields.io/badge/-59666C?style=flat-square&logo=hibernate&logoColor=white" height="18"/>&nbsp; Spring Data JPA / Hibernate
+- <img src="https://img.shields.io/badge/-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" height="18"/>&nbsp; Spring Security
+- <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="18"/>&nbsp; JWT
+- <img src="https://skillicons.dev/icons?i=mysql" height="18"/>&nbsp; MySQL
+- <img src="https://skillicons.dev/icons?i=postgres" height="18"/>&nbsp; PostgreSQL
 
-**`education.log`**
-
-```
-2024 ─┬─ B.E. CSE
-      │  Easwari Engineering
-      │  College, Chennai
-      │
-      └─ CGPA 8.3 / 10
-2028 ─── expected graduation
-```
-
-**`certifications.log`**
-
-```
-[✓] Oracle Certified Professional
-    Java SE 17 Developer
-[✓] Cisco — Networking Basics
-    Dec 2024
-```
-
-**`achievements.log`**
-
-```
-[400+] LeetCode DSA problems
-[1503] CodeChef rating, Div 3
-```
-
-</td>
-
-<!-- ░░░ MAIN CONTENT ░░░ -->
-<td width="70%" valign="top">
-
-### `<profile/>`
-
-> Oracle Certified Professional (Java SE 17) and third-year CS undergraduate building production-shaped backend systems — not tutorial clones. Recent work centers on **client-side encryption**, **RBAC**, and **REST API design** with Spring Boot + MySQL/PostgreSQL. 400+ DSA problems deep on LeetCode, still counting.
-
-<br/>
-
-### `<stack/>`
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**Language**
-<img src="https://skillicons.dev/icons?i=java,mysql,js,html,css" height="32"/>
-
-</td>
-<td width="33%" valign="top">
-
-**Backend**
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</td>
-<td width="33%" valign="top">
+**Security Layer**
+- 🔐 AES-256-GCM
+- 🔐 PBKDF2
+- 🔐 RBAC
+- 🔐 Web Crypto API
 
 **Tooling**
-<img src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode" height="32"/>
+- <img src="https://skillicons.dev/icons?i=git" height="18"/>&nbsp; Git
+- <img src="https://skillicons.dev/icons?i=github" height="18"/>&nbsp; GitHub
+- <img src="https://skillicons.dev/icons?i=postman" height="18"/>&nbsp; Postman
+- <img src="https://skillicons.dev/icons?i=maven" height="18"/>&nbsp; Maven
+- <img src="https://skillicons.dev/icons?i=idea" height="18"/>&nbsp; IntelliJ IDEA
+- <img src="https://skillicons.dev/icons?i=vscode" height="18"/>&nbsp; VS Code
 
-</td>
-</tr>
-</table>
+---
 
-<sub>**security layer:**</sub> ![](https://img.shields.io/badge/AES--256--GCM-0D1117?style=flat-square&logoColor=39FF88) ![](https://img.shields.io/badge/PBKDF2-0D1117?style=flat-square&logoColor=39FF88) ![](https://img.shields.io/badge/RBAC-0D1117?style=flat-square&logoColor=39FF88) ![](https://img.shields.io/badge/Web_Crypto_API-0D1117?style=flat-square&logoColor=39FF88)
-
-<br/>
-
-### `<projects/>`
+### 🚀 Featured Projects
 
 <details open>
-<summary><b>🔐 KeyVault</b> — <i>Secrets & API Key Manager</i></summary>
-
+<summary><b>🔐 KeyVault — Secrets & API Key Manager</b></summary>
 <br/>
 
-```bash
-$ stack --show keyvault
-> Java · Spring Boot · MySQL · Web Crypto API
-```
+`Java` `Spring Boot` `MySQL` `Web Crypto API`
 
-- Client-encrypted platform for storing and managing API secrets across teams
-- Secrets encrypted **client-side** with `PBKDF2` + `AES-256-GCM` before ever touching the backend
-- Workspaces, RBAC, secret versioning + rollback, audit logs, machine tokens, expiry alerts
+A client-encrypted platform for storing and managing API secrets across teams. Secrets are encrypted **before they ever touch the backend**, using PBKDF2 for key derivation and AES-256-GCM for encryption. Includes workspaces, role-based access control, secret versioning with rollback, audit logs, machine tokens, and expiry alerts.
 
 </details>
 
 <details>
-<summary><b>📊 Verdant CRM</b> — <i>Commercial Operations Platform</i></summary>
-
+<summary><b>📊 Verdant CRM — Commercial Operations Platform</b></summary>
 <br/>
 
-```bash
-$ stack --show verdant-crm
-> Java 17 · Spring Boot 3 · PostgreSQL · Spring Data JPA · Flyway · Spring Security
-```
+`Java 17` `Spring Boot 3` `PostgreSQL` `Spring Data JPA` `Flyway` `Spring Security`
 
-- CRM for lead, quote, milestone-billing, and field-survey workflows
-- PostgreSQL **materialized view** for summary analytics, refreshed on a scheduled Spring job
-- Paginated REST endpoints via Spring Data `Pageable`
-- Schema migrations on Flyway · JWT-based auth via Spring Security
+A CRM built around lead tracking, quoting, milestone-billing, and field-survey workflows. Uses a PostgreSQL materialized view for summary analytics, refreshed on a scheduled Spring job, with paginated REST endpoints via Spring Data `Pageable`, Flyway-managed schema migrations, and JWT-based auth.
 
 </details>
 
 <details>
-<summary><b>💰 Expense Manager</b> — <i>Full-Stack Finance Tracker</i></summary>
-
+<summary><b>💰 Expense Manager — Full-Stack Finance Tracker</b></summary>
 <br/>
 
-```bash
-$ stack --show expense-manager
-> Java · Spring Boot · MySQL · JPA · HTML · CSS · JavaScript
-```
+`Java` `Spring Boot` `MySQL` `JPA` `HTML/CSS/JS`
 
-- Full-stack app to record, categorize, and analyze recurring personal expenses
-- RESTful CRUD via Spring Boot + JPA repositories + MySQL
-- Monthly budget calculations, category filtering, aggregate SQL queries
-- Backend REST services wired to dynamic client-side UI for async updates
+A full-stack app for recording, categorizing, and analyzing recurring personal expenses. RESTful CRUD via Spring Boot + JPA repositories, monthly budget calculations, category filtering, aggregate SQL queries, and a dynamic client-side UI wired for async updates.
 
 </details>
 
-<br/>
+---
 
-### `<activity/>`
+### 📈 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eduvanthrahul-afk&theme=dark&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" height="150"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eduvanthrahul-afk&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=39FF88&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eduvanthrahul-afk&theme=dark&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" height="165"/>
+</p>
 
-<br/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eduvanthrahul-afk&theme=react-dark&bg_color=0D1117&color=39FF88&line=39FF88&point=ffffff&hide_border=true" width="97%"/>
+</p>
 
-![visitors](https://komarev.com/ghpvc/?username=eduvanthrahul-afk&label=PROFILE+VIEWS&color=39FF88&style=flat-square&base=0D1117)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=eduvanthrahul-afk&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
 
-</td>
-</tr>
-</table>
+**Competitive Programming**
+- 400+ DSA problems solved on LeetCode
+- 1503 rating on CodeChef (Div 3)
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=3&width=100%"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=eduvanthrahul-afk&label=PROFILE+VIEWS&color=39FF88&style=flat-square&base=0D1117"/>
+</p>
 
-<p align="center"><sub>~/eduvanthrahul-afk $ <i>thanks for stopping by — always shipping something.</i>_</sub></p>
+<p align="center"><sub>Always building something. Reach out if you want to talk backend systems, security, or SaaS ideas.</sub></p>
