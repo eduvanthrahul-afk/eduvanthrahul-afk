@@ -1,183 +1,86 @@
-<div align="center">
-
 # Rahul E.
-### Backend Developer — Java · Spring Boot · System Design
 
-📍 Chennai, India &nbsp;·&nbsp; 🎓 SRM Easwari Engineering College, CSE '28 &nbsp;·&nbsp; ☕ Oracle Certified, Java SE 17
+**Backend Developer** — Java · Spring Boot · System Design
 
-<a href="mailto:eduvanthrahul@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=39FF88"/></a>
-<a href="https://linkedin.com/in/rahul-eduvanth"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=39FF88"/></a>
-<a href="https://leetcode.com/Rahul_E"><img src="https://img.shields.io/badge/-LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=39FF88"/></a>
-<a href="https://github.com/eduvanthrahul-afk"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=39FF88"/></a>
+Chennai, India · Open to backend engineering internships
 
-</div>
+[Email](mailto:eduvanthrahul@gmail.com) · [LinkedIn](https://linkedin.com/in/rahul-eduvanth) · [GitHub](https://github.com/eduvanthrahul-afk) · [LeetCode](https://leetcode.com/Rahul_E)
 
 ---
 
-### Schema
+## About
 
-```mermaid
-erDiagram
-    DEVELOPER ||--o{ SKILL : has
-    DEVELOPER ||--o{ PROJECT : builds
-    DEVELOPER ||--o{ CERTIFICATION : holds
-    SKILL ||--o{ PROJECT : "applied in"
-
-    DEVELOPER {
-        string name
-        string role
-        string location
-        string status
-    }
-    SKILL {
-        string category
-        string name
-    }
-    PROJECT {
-        string name
-        string stack
-        string status
-    }
-    CERTIFICATION {
-        string name
-        string issuer
-    }
-```
-
-I got into backend engineering by taking apart a tutorial CRUD app and asking what happens when it meets real traffic and real attackers. That question is still what I build toward — systems with real access control, real encryption, and a schema that was actually thought through.
+Third-year Computer Science student focused on backend systems that hold up under real conditions — proper access control, encryption applied correctly, and schemas designed to scale. Oracle Certified Professional in Java SE 17, with hands-on experience leading a small engineering team through a full project lifecycle, from system design through deployment.
 
 ---
 
-### Skills
+## Experience
 
-**Languages**
-- <img src="https://skillicons.dev/icons?i=java" height="18"/>&nbsp; Java
-- <img src="https://skillicons.dev/icons?i=js" height="18"/>&nbsp; JavaScript
-- <img src="https://skillicons.dev/icons?i=html" height="18"/>&nbsp; HTML
-- <img src="https://skillicons.dev/icons?i=css" height="18"/>&nbsp; CSS
+**Digital Journal** — *Team Lead, 5 engineers*
+Led design and delivery of a full-stack journaling application.
+- Owned system design documentation and a phased build roadmap
+- Defined the frontend/backend integration contract across the team
+- Stack: Spring Boot, PostgreSQL, htmx, Alpine.js, AWS S3
 
-**Backend & Data**
-- <img src="https://img.shields.io/badge/-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="18"/>&nbsp; Spring Boot
-- <img src="https://img.shields.io/badge/-59666C?style=flat-square&logo=hibernate&logoColor=white" height="18"/>&nbsp; Spring Data JPA / Hibernate
-- <img src="https://img.shields.io/badge/-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" height="18"/>&nbsp; Spring Security
-- <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="18"/>&nbsp; JWT
-- <img src="https://skillicons.dev/icons?i=mysql" height="18"/>&nbsp; MySQL
-- <img src="https://skillicons.dev/icons?i=postgres" height="18"/>&nbsp; PostgreSQL
+**KeyVault** — *Secrets & API Key Manager*
+Built a secrets management platform with client-side encryption.
+- Encrypted secrets with PBKDF2 + AES-256-GCM before they reach the backend
+- Implemented workspaces, role-based access control, and secret versioning with rollback
+- Added audit logging, machine tokens, and expiry alerts
+- Stack: Java, Spring Boot, MySQL, Web Crypto API
 
-**Security Layer**
-- 🔐 AES-256-GCM
-- 🔐 PBKDF2
-- 🔐 RBAC
-- 🔐 Web Crypto API
+**Verdant CRM** — *Commercial Operations Platform*
+Built a CRM for lead, quoting, and billing workflows.
+- Designed a PostgreSQL materialized view for analytics, refreshed on a scheduled job
+- Implemented paginated REST endpoints and JWT-based authentication
+- Managed schema evolution with Flyway migrations
+- Stack: Java 17, Spring Boot 3, PostgreSQL, Spring Security
 
-**Tooling**
-- <img src="https://skillicons.dev/icons?i=git" height="18"/>&nbsp; Git
-- <img src="https://skillicons.dev/icons?i=github" height="18"/>&nbsp; GitHub
-- <img src="https://skillicons.dev/icons?i=postman" height="18"/>&nbsp; Postman
-- <img src="https://skillicons.dev/icons?i=maven" height="18"/>&nbsp; Maven
-- <img src="https://skillicons.dev/icons?i=idea" height="18"/>&nbsp; IntelliJ IDEA
-- <img src="https://skillicons.dev/icons?i=vscode" height="18"/>&nbsp; VS Code
-
-**In progress**
-- <img src="https://skillicons.dev/icons?i=nodejs" height="18"/>&nbsp; Node.js
-- <img src="https://skillicons.dev/icons?i=express" height="18"/>&nbsp; Express
+**Expense Manager** — *Full-Stack Finance Tracker*
+Built an application for tracking and analyzing recurring expenses.
+- Implemented RESTful CRUD operations via Spring Boot and JPA
+- Built monthly budget calculations and category-based filtering
+- Stack: Java, Spring Boot, MySQL, JPA
 
 ---
 
-### Projects
+## Skills
 
-<details open>
-<summary><b>🧭 Digital Journal — Team Lead, 5 engineers</b></summary>
-<br/>
+**Languages:** Java, JavaScript, HTML, CSS
 
-`Spring Boot` `PostgreSQL` `Alpine.js` `htmx` `AWS S3`
+**Backend & Data:** Spring Boot, Spring Data JPA / Hibernate, Spring Security, JWT, MySQL, PostgreSQL
 
-My first project-leadership role. Owned the system design docs, a phased build roadmap, and the frontend/backend integration contract for a team of five.
+**Security:** AES-256-GCM, PBKDF2, RBAC, Web Crypto API
 
-</details>
+**Tools:** Git, GitHub, Postman, Maven, IntelliJ IDEA, VS Code
 
-<details>
-<summary><b>🔐 KeyVault — Secrets & API Key Manager</b></summary>
-<br/>
-
-`Java` `Spring Boot` `MySQL` `Web Crypto API`
-
-Client-encrypted secrets manager — PBKDF2 + AES-256-GCM encryption happens before anything reaches the backend. Workspaces, RBAC, secret versioning with rollback, audit logs, machine tokens, expiry alerts.
-
-</details>
-
-<details>
-<summary><b>📊 Verdant CRM — Commercial Operations Platform</b></summary>
-<br/>
-
-`Java 17` `Spring Boot 3` `PostgreSQL` `Flyway` `Spring Security`
-
-Lead tracking, quoting, milestone-billing, and field-survey workflows. PostgreSQL materialized view for analytics, paginated REST via Pageable, Flyway migrations, JWT auth.
-
-</details>
-
-<details>
-<summary><b>💰 Expense Manager — Full-Stack Finance Tracker</b></summary>
-<br/>
-
-`Java` `Spring Boot` `MySQL` `JPA` `HTML/CSS/JS`
-
-Recurring expense tracking with budget calculations, category filtering, and aggregate SQL queries behind a dynamic async UI.
-
-</details>
+**Currently learning:** Node.js, Express
 
 ---
 
-### Growth
+## Certifications & Education
 
-```mermaid
-gitGraph
-   commit id: "Java fundamentals"
-   commit id: "Oracle Java SE 17 cert"
-   branch spring-boot
-   checkout spring-boot
-   commit id: "Learned Spring Boot"
-   commit id: "Built Verdant CRM"
-   commit id: "Built Expense Manager"
-   checkout main
-   merge spring-boot
-   branch security
-   checkout security
-   commit id: "AES-256-GCM + PBKDF2"
-   commit id: "Built KeyVault"
-   checkout main
-   merge security
-   branch leadership
-   checkout leadership
-   commit id: "Led team: Digital Journal"
-   checkout main
-   merge leadership
-   branch node-express
-   checkout node-express
-   commit id: "Learning Node.js + Express"
-```
+- Oracle Certified Professional, Java SE 17
+- Cisco — Networking Basics (Dec 2024)
+- B.E. Computer Science, SRM Easwari Engineering College — CGPA 8.3/10, expected 2028
 
 ---
 
-### Stats
+## GitHub Activity
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eduvanthrahul-afk&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF88&icon_color=39FF88&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eduvanthrahul-afk&theme=dark&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88" height="165"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=eduvanthrahul-afk&show_icons=true&theme=github_dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=eduvanthrahul-afk&show_icons=true&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduvanthrahul-afk&show_icons=true&theme=default&hide_border=true" alt="Rahul's GitHub Stats" height="160"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=eduvanthrahul-afk&theme=github-dark-blue&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=eduvanthrahul-afk&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduvanthrahul-afk&theme=default&hide_border=true" alt="Rahul's GitHub Streak" height="160"/>
+</picture>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=eduvanthrahul-afk&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10"/>
-</div>
-
-<div align="center">
-400+ LeetCode problems solved · 1503 CodeChef rating (Div 3)
-</div>
+400+ problems solved on LeetCode · 1503 rating on CodeChef (Div 3)
 
 ---
 
-<div align="center">
-<sub>Always building something. Reach out about backend systems, security, or SaaS ideas.</sub>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=eduvanthrahul-afk&label=PROFILE+VIEWS&color=39FF88&style=flat-square&base=0D1117"/>
-</div>
+<sub>Last updated 2026 — always building something.</sub>
