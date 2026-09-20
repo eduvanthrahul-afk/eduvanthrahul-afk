@@ -1,86 +1,41 @@
-# Rahul E.
+<div align="center">
 
-**Backend Developer** — Java · Spring Boot · System Design
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Rahul%20E.&fontSize=45&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot&descAlignY=62&descSize=18" width="100%"/>
 
-Chennai, India · Open to backend engineering internships
+📍 Chennai · 🎓 SRM Easwari EC '28 · 💼 Open to backend internships
 
-[Email](mailto:eduvanthrahul@gmail.com) · [LinkedIn](https://linkedin.com/in/rahul-eduvanth) · [GitHub](https://github.com/eduvanthrahul-afk) · [LeetCode](https://leetcode.com/Rahul_E)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduvanthrahul@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-eduvanth)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduvanthrahul-afk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Rahul_E)
 
----
+</div>
 
-## About
+Oracle Certified (Java SE 17) backend developer who cares more about *why* a system holds up than that it just runs — proper access control, real encryption, schemas built to last.
 
-Third-year Computer Science student focused on backend systems that hold up under real conditions — proper access control, encryption applied correctly, and schemas designed to scale. Oracle Certified Professional in Java SE 17, with hands-on experience leading a small engineering team through a full project lifecycle, from system design through deployment.
+### Stack
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-## Experience
+![AES](https://img.shields.io/badge/AES--256--GCM-1a1a2e?style=flat-square&logoColor=39FF88) ![PBKDF2](https://img.shields.io/badge/PBKDF2-1a1a2e?style=flat-square&logoColor=39FF88) ![RBAC](https://img.shields.io/badge/RBAC-1a1a2e?style=flat-square&logoColor=39FF88)
 
-**Digital Journal** — *Team Lead, 5 engineers*
-Led design and delivery of a full-stack journaling application.
-- Owned system design documentation and a phased build roadmap
-- Defined the frontend/backend integration contract across the team
-- Stack: Spring Boot, PostgreSQL, htmx, Alpine.js, AWS S3
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_(learning)-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**KeyVault** — *Secrets & API Key Manager*
-Built a secrets management platform with client-side encryption.
-- Encrypted secrets with PBKDF2 + AES-256-GCM before they reach the backend
-- Implemented workspaces, role-based access control, and secret versioning with rollback
-- Added audit logging, machine tokens, and expiry alerts
-- Stack: Java, Spring Boot, MySQL, Web Crypto API
+### Projects
 
-**Verdant CRM** — *Commercial Operations Platform*
-Built a CRM for lead, quoting, and billing workflows.
-- Designed a PostgreSQL materialized view for analytics, refreshed on a scheduled job
-- Implemented paginated REST endpoints and JWT-based authentication
-- Managed schema evolution with Flyway migrations
-- Stack: Java 17, Spring Boot 3, PostgreSQL, Spring Security
+- **Digital Journal** — Led a 5-person team; owned system design + roadmap. `Spring Boot · PostgreSQL · AWS S3`
+- **KeyVault** — Secrets manager, encrypted client-side before it hits the backend. `Java · Spring Boot · MySQL`
+- **Verdant CRM** — Lead/quoting/billing CRM with materialized-view analytics. `Spring Boot 3 · PostgreSQL · Flyway`
 
-**Expense Manager** — *Full-Stack Finance Tracker*
-Built an application for tracking and analyzing recurring expenses.
-- Implemented RESTful CRUD operations via Spring Boot and JPA
-- Built monthly budget calculations and category-based filtering
-- Stack: Java, Spring Boot, MySQL, JPA
+### Stats
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eduvanthrahul-afk&show_icons=true&theme=radical&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eduvanthrahul-afk&theme=radical&hide_border=true" height="150"/>
+</div>
 
-## Skills
+<div align="center">
+400+ LeetCode · 1503 CodeChef
+</div>
 
-**Languages:** Java, JavaScript, HTML, CSS
-
-**Backend & Data:** Spring Boot, Spring Data JPA / Hibernate, Spring Security, JWT, MySQL, PostgreSQL
-
-**Security:** AES-256-GCM, PBKDF2, RBAC, Web Crypto API
-
-**Tools:** Git, GitHub, Postman, Maven, IntelliJ IDEA, VS Code
-
-**Currently learning:** Node.js, Express
-
----
-
-## Certifications & Education
-
-- Oracle Certified Professional, Java SE 17
-- Cisco — Networking Basics (Dec 2024)
-- B.E. Computer Science, SRM Easwari Engineering College — CGPA 8.3/10, expected 2028
-
----
-
-## GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=eduvanthrahul-afk&show_icons=true&theme=github_dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=eduvanthrahul-afk&show_icons=true&theme=default&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduvanthrahul-afk&show_icons=true&theme=default&hide_border=true" alt="Rahul's GitHub Stats" height="160"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=eduvanthrahul-afk&theme=github-dark-blue&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=eduvanthrahul-afk&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduvanthrahul-afk&theme=default&hide_border=true" alt="Rahul's GitHub Streak" height="160"/>
-</picture>
-
-400+ problems solved on LeetCode · 1503 rating on CodeChef (Div 3)
-
----
-
-<sub>Last updated 2026 — always building something.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
