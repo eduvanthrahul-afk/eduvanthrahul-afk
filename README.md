@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Rahul%20E.&fontSize=45&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot&descAlignY=62&descSize=18" width="100%"/>
-
+<br>
 📍 Chennai · 🎓 SRM Easwari EC '28 · 💼 Open to backend internships
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduvanthrahul@gmail.com)
