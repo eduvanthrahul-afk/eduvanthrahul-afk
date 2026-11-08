@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="290" viewBox="0 0 440 290" role="img" aria-label="Farm-E — Farmer-to-buyer marketplace with live Dutch auctions">
+  <title>Farm-E — Farmer-to-buyer marketplace with live Dutch auctions</title>
+  <defs>
+    <pattern id="gf" width="12" height="12" patternUnits="userSpaceOnUse">
+      <path d="M12 0H0V12" fill="none" stroke="#d6ecff" stroke-opacity=".05" stroke-width="1"/>
+    </pattern>
+    <pattern id="Gf" width="60" height="60" patternUnits="userSpaceOnUse">
+      <rect width="60" height="60" fill="url(#gf)"/>
+      <path d="M60 0H0V60" fill="none" stroke="#d6ecff" stroke-opacity=".11" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="vf" cx="50%" cy="40%" r="75%">
+      <stop offset="0" stop-color="#0c2a4d"/><stop offset="1" stop-color="#0a2341"/>
+    </radialGradient>
+    <marker id="arf" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#7fa8cf"/>
+    </marker>
+  </defs>
+  <style>
+    text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#d6ecff}
+    .serif{font-family:Georgia,'Times New Roman',serif}
+    .dim{fill:#7fa8cf} .cy{fill:#5ad1ff} .am{fill:#ffb454}
+    .ln{fill:none;stroke:#d6ecff;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round}
+    .lnd{fill:none;stroke:#7fa8cf;stroke-width:1;stroke-dasharray:3 4}
+    .lnc{fill:none;stroke:#5ad1ff;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+    .draw{stroke-dasharray:1200;stroke-dashoffset:0;animation:draw 2.6s ease-out}
+    .draw2{stroke-dasharray:1200;stroke-dashoffset:0;animation:draw 3.4s ease-out}
+    @keyframes draw{from{stroke-dashoffset:1200}to{stroke-dashoffset:0}}
+    .blink{animation:blink 1.2s steps(2,start) infinite}
+    @keyframes blink{to{visibility:hidden}}
+    .pulse{animation:pulse 2.4s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+    .stamp{animation:stamp .7s cubic-bezier(.2,1.6,.4,1);transform:rotate(-14deg);transform-box:fill-box;transform-origin:center}
+    @keyframes stamp{from{opacity:0;transform:scale(2.2) rotate(-14deg)}to{opacity:1;transform:scale(1) rotate(-14deg)}}
+    .steam{animation:steam 3s ease-in-out infinite;transform-box:fill-box}
+    .steam.b{animation-delay:1s} .steam.c{animation-delay:2s}
+    @keyframes steam{0%{opacity:0;transform:translateY(6px)}40%{opacity:.9}100%{opacity:0;transform:translateY(-10px)}}
+    .spin{animation:spin 14s linear infinite;transform-box:fill-box;transform-origin:center}
+    @keyframes spin{to{transform:rotate(360deg)}}
+  </style>
+  <rect width="440" height="290" rx="14" fill="url(#vf)"/>
+  <rect width="440" height="290" rx="14" fill="url(#Gf)"/>
+  <rect x="8" y="8" width="424" height="274" rx="8" fill="none" stroke="#d6ecff" stroke-opacity=".55" stroke-width="1.2"/>
+  <rect x="16" y="16" width="408" height="258" rx="4" fill="none" stroke="#d6ecff" stroke-opacity=".25" stroke-width="1"/>
+  <path d="M152 8V16M152 274V282" stroke="#d6ecff" stroke-opacity=".4"/>
+  <path d="M288 8V16M288 274V282" stroke="#d6ecff" stroke-opacity=".4"/>
+  <text x="84" y="14.5" font-size="6.5" text-anchor="middle" class="dim">1</text>
+  <text x="220" y="14.5" font-size="6.5" text-anchor="middle" class="dim">2</text>
+  <text x="356" y="14.5" font-size="6.5" text-anchor="middle" class="dim">3</text>
+  <path d="M8 145H16M424 145H432" stroke="#d6ecff" stroke-opacity=".4"/>
+  <text x="12" y="82" font-size="6.5" text-anchor="middle" class="dim">A</text>
+  <text x="12" y="212" font-size="6.5" text-anchor="middle" class="dim">B</text>
+  
+  <text x="30" y="40" font-size="9" letter-spacing="2" class="dim">SHEET 04</text>
+  <text x="410" y="40" font-size="9" letter-spacing="1" text-anchor="end" class="dim">VIEW REPO ↗</text>
+  <text x="30" y="70" font-size="25" class="serif" font-weight="700">Farm-E</text>
+  <text x="30" y="91" font-size="11.5" class="dim">Farmer-to-buyer marketplace with live Dutch auctions</text>
+  <path d="M30 101H410" stroke="#d6ecff" stroke-opacity=".2"/>
+  <g transform="translate(0 0)">
+  <g opacity=".55">
+    <path class="ln" stroke-width="1" d="M36 200c40-30 70-10 110-40s60-40 110-30"/>
+    <path class="ln" stroke-width="1" d="M36 180c30-24 64-8 98-30s58-38 100-34"/>
+    <path class="ln" stroke-width="1" d="M60 214c50-16 90 0 140-18s70-22 80-20"/>
+    <path class="ln" stroke-width="1" d="M90 148c20-10 40-6 56-14"/>
+  </g>
+  <g fill="#0c2a4d" stroke="#ffb454" stroke-width="1.5">
+    <path d="M92 168a10 10 0 1 1 20 0c0 8-10 16-10 16s-10-8-10-16z"/>
+    <path d="M178 140a10 10 0 1 1 20 0c0 8-10 16-10 16s-10-8-10-16z"/>
+    <path d="M240 186a10 10 0 1 1 20 0c0 8-10 16-10 16s-10-8-10-16z"/>
+  </g>
+  <text x="102" y="158" font-size="9" text-anchor="middle" class="am">₹24/kg</text>
+  <text x="188" y="130" font-size="9" text-anchor="middle" class="am">₹31/kg</text>
+  <text x="250" y="176" font-size="9" text-anchor="middle" class="am">₹19/kg</text>
+  <path class="lnd" d="M102 170L188 142L250 188"/>
+  <g transform="translate(350 168)">
+    <circle r="40" class="ln" stroke-opacity=".5"/>
+    <circle r="40" fill="none" stroke="#5ad1ff" stroke-width="4" stroke-dasharray="251" stroke-dashoffset="0" transform="rotate(-90)">
+      <animate attributeName="stroke-dashoffset" values="0;251" dur="8s" repeatCount="indefinite"/></circle>
+    <path class="spin" d="M0 0V-30" stroke="#d6ecff" stroke-width="1.6"/>
+    <text y="18" font-size="8.5" text-anchor="middle" class="dim">dutch clock</text>
+    <text y="-48" font-size="8.5" text-anchor="middle" class="dim">live auction</text>
+  </g>
+</g>
+  <path d="M30 228H410" stroke="#d6ecff" stroke-opacity=".2"/>
+  <text x="30" y="246" font-size="10.5" style="fill:#ffb454">transactions · refresh-token rotation · evidence disputes</text>
+  <rect x="30" y="254" width="74" height="20" rx="10" fill="#5ad1ff" fill-opacity=".1" stroke="#5ad1ff" stroke-opacity=".55"/><text x="67" y="268" font-size="11" text-anchor="middle" fill="#5ad1ff" style="fill:#5ad1ff">React 19</text><rect x="109.6" y="254" width="66" height="20" rx="10" fill="#5ad1ff" fill-opacity=".1" stroke="#5ad1ff" stroke-opacity=".55"/><text x="143" y="268" font-size="11" text-anchor="middle" fill="#5ad1ff" style="fill:#5ad1ff">Express</text><rect x="182.0" y="254" width="66" height="20" rx="10" fill="#5ad1ff" fill-opacity=".1" stroke="#5ad1ff" stroke-opacity=".55"/><text x="215" y="268" font-size="11" text-anchor="middle" fill="#5ad1ff" style="fill:#5ad1ff">MongoDB</text><rect x="254.4" y="254" width="81" height="20" rx="10" fill="#5ad1ff" fill-opacity=".1" stroke="#5ad1ff" stroke-opacity=".55"/><text x="295" y="268" font-size="11" text-anchor="middle" fill="#5ad1ff" style="fill:#5ad1ff">Socket.IO</text>
+
+</svg>

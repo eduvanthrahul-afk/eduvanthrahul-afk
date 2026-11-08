@@ -1,42 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?
-type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Rahul%20E.&fontSize=45&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot&descAlignY=62&descSize=18" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Rahul E. — Backend engineer working in Java and Spring Boot. I care more about why a system holds together than about the fact that it runs. Based in Chennai, 3rd year CS at SRM Easwari, Oracle Certified Java SE 17, open to backend internships."/>
 
-📍 Chennai · 🎓 SRM Easwari EC '28 · 💼 Open to backend internships
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduvanthrahul@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-eduvanth)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduvanthrahul-afk)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Rahul_E)
+<a href="mailto:eduvanthrahul@gmail.com"><img src="assets/btn-email.svg" width="24%" alt="Email"/></a>
+<a href="https://linkedin.com/in/rahul-eduvanth"><img src="assets/btn-linkedin.svg" width="24%" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/Rahul_E"><img src="assets/btn-leetcode.svg" width="24%" alt="LeetCode"/></a>
+<a href="https://github.com/eduvanthrahul-afk/Resume/blob/main/output/pdf/E_Rahul_Resume_ATS.pdf"><img src="assets/btn-resume.svg" width="24%" alt="Resume (PDF)"/></a>
 
 </div>
 
-Oracle Certified (Java SE 17) backend developer who cares more about *why* a system holds up than that it just runs — proper access control, real encryption, schemas built to last.
-
-### Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-![AES](https://img.shields.io/badge/AES--256--GCM-1a1a2e?style=flat-square&logoColor=39FF88) ![PBKDF2](https://img.shields.io/badge/PBKDF2-1a1a2e?style=flat-square&logoColor=39FF88) ![RBAC](https://img.shields.io/badge/RBAC-1a1a2e?style=flat-square&logoColor=39FF88)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_(learning)-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-### Projects
-
-- **Digital Journal** — Led a 5-person team; owned system design + roadmap. `Spring Boot · PostgreSQL · AWS S3`
-- **KeyVault** — Secrets manager, encrypted client-side before it hits the backend. `Java · Spring Boot · MySQL`
-- **Verdant CRM** — Lead/quoting/billing CRM with materialized-view analytics. `Spring Boot 3 · PostgreSQL · Flyway`
-
-### Stats
+<br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eduvanthrahul-afk&show_icons=true&theme=radical&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eduvanthrahul-afk&theme=radical&hide_border=true" height="150"/>
+
+<a href="https://github.com/eduvanthrahul-afk/twinguard"><img src="assets/twinguard.svg" width="49%" alt="TwinGuard — OTA release gate for cars. Runs the update beside the approved software in a simulated car, blocks updates that make it less safe, and measures its own trust with mutation testing: 203 of 314 real mutants caught, 0 false alarms in 104,000 scenarios. Java 17, Spring Boot, React, FMI, CARLA."/></a>
+<a href="https://github.com/eduvanthrahul-afk/keyvault-secrets-manager"><img src="assets/keyvault.svg" width="49%" alt="KeyVault — zero-knowledge secrets manager. Secrets are encrypted with AES-256-GCM in the browser or CLI, so the server only stores ciphertext. RBAC, versioned rollback, machine tokens, audit trail. Spring Boot, MySQL, JWT, Web Crypto, Node CLI."/></a>
+
+<a href="https://github.com/eduvanthrahul-afk/Farm-E"><img src="assets/farm-e.svg" width="49%" alt="Farm-E — produce marketplace connecting farmers and buyers with live Dutch auctions, ranked matching and QR trace passports. React 19, Express, MongoDB, Socket.IO."/></a>
+<a href="https://github.com/eduvanthrahul-afk/oiho"><img src="assets/decisiontwin.svg" width="49%" alt="DecisionTwin — simulate a business decision such as pricing on a synthetic customer population before committing to it. Java 21, Spring Boot, Python, PostgreSQL, Docker."/></a>
+
+<a href="https://github.com/eduvanthrahul-afk/CRM_DEV"><img src="assets/verdant-crm.svg" width="49%" alt="Verdant CRM — lead, survey, quote, project and payment pipeline in one system, with low-margin quote guards and a revenue-at-risk dashboard. Spring Boot 3, PostgreSQL 16, Flyway."/></a>
+<a href="https://github.com/eduvanthrahul-afk/pomelo"><img src="assets/pomelo.svg" width="49%" alt="Pomelo — a shipped, free Windows file converter. Drag a file, tap Shift, Ctrl or Alt, and drop it on a format. Everything runs offline. Windows, .NET, FFmpeg, Pandoc."/></a>
+
 </div>
 
-<div align="center">
-400+ LeetCode · 1503 CodeChef
-</div>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="assets/stack.svg" width="100%" alt="Bill of materials: Java 17 (Oracle certified), Spring Boot 3 and Spring Security, PostgreSQL, MySQL and MongoDB, AES-256-GCM and PBKDF2, JUnit and mutation testing, Docker and GitHub Actions, Python and Node.js, React and vanilla JS, and coffee."/>
+
+<img src="assets/revisions.svg" width="100%" alt="Revision history: 2025.09 joined GitHub; 2026.02 KeyVault; 2026.09 Verdant CRM and a 380+ commit DSA log; 2026.10 Farm-E, DecisionTwin and OrbitConvert; 2026.11 Pomelo shipped and TwinGuard. Practice: 400+ LeetCode problems solved, CodeChef rating 1503."/>
+
+<sub>Also: led a 5-person team on <b>Digital Journal</b> (Spring Boot · PostgreSQL · AWS S3) and owned its system design and roadmap. Every sheet on this page is a hand-drawn SVG in <a href="assets/">/assets</a>.</sub>
